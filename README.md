@@ -5,4 +5,8 @@ Despliegue profesional de ElasticSearch | Kibana |  LogStach
 - **Logstash Reference:** https://www.elastic.co/guide/en/logstash/current/index.html
 - **¿Cómo funcional LogStach?:** https://www.elastic.co/guide/en/logstash/current/pipeline.html
 - ** Lista de Videos 1:** https://www.youtube.com/playlist?list=PLVx1qovxj-amb-8M_3Ccdl1eczvbJzkwT
+-
+
+## Trabajando con Docker
+- **ElasticSearch con Docker:** https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
 
