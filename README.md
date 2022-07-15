@@ -1,6 +1,11 @@
 # elastic-kibana-logstach
 Despliegue profesional de ElasticSearch | Kibana |  LogStach
 
+## Docker-compose Profesional **ElasticSearch** 
+- https://github.com/deviantony/docker-elk#how-to-configure-elasticsearch
+- https://github.com/sherifabdlnaby/elastdocker
+
+
 ##Caso Elasticsearch
 - Se debe configurar el vm en el sisteam base: https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html#_set_vm_max_map_count_to_at_least_262144
 
